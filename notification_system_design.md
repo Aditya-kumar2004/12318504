@@ -110,8 +110,8 @@ Authorization: Bearer <token>
     {
       "id": "1",
       "type": "Placement",
-      "title": "Microsoft Hiring Drive",
-      "message": "Microsoft hiring drive scheduled on Friday",
+      "title": "Afford Hiring Drive",
+      "message": "Afford hiring drive scheduled on Thursday",
       "priority": "high",
       "isRead": false,
       "createdAt": "2026-05-14T10:00:00Z"
